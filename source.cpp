@@ -1,5 +1,5 @@
 ﻿/*
-GroupMember:- Harshil Hasmukhbhai Chakrani
+Member:- Harshil Hasmukhbhai Chakrani
 */
 
 #define _CRT_SECURE_NO_WARNINGS  
